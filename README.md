@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # newsphnix
-# weatherbot
+# welcime to weather bot documentation by Megha:
 =======
 ## Welcome to GitHub Pages
 
